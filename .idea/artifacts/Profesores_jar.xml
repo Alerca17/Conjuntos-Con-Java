@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Profesores:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Profesores_jar</output-path>
+    <root id="archive" name="Profesores.jar">
+      <element id="module-output" name="Profesores" />
+      <element id="file-copy" path="$PROJECT_DIR$/Completo.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/Catedra.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/Ocasional.txt" />
+    </root>
+  </artifact>
+</component>

@@ -1,5 +1,3 @@
 Juan Jose Correa--124345325--07/05/2024--Masculino--Especialista--Administracion--3--16
-Alejandro Correa--1023623600--17/05/2004--Masculino--Maestria--Ingenieria--4--13
 David Canovas--658756786--28/10/2001--Masculino--Maestria--Ingenieria--3--13
-Melissa Guty--755475647--09/02/2006--Femenino--Pregrado--CienciasBasicas--3--10
 Juan Jose--325636436--18/09/1998--Masculino--Especialista--Deportes--2--7

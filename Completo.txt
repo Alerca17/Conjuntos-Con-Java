@@ -1,6 +1,5 @@
 Alejandro Correa--1023623600--17/05/2004--Masculino--Maestria--Ingenieria--4--13
 Daniela Alejandra Rozo Pimentel--000000000--16/05/2003--Femenino--Doctorado--Ingenieria--4--12
-Juan Jose Correa--124345325--07/05/2024--Masculino--Especialista--Administracion--3--16
 David Canovas--658756786--28/10/2001--Masculino--Maestria--Ingenieria--3--13
 Melissa Guty--755475647--09/02/2006--Femenino--Pregrado--CienciasBasicas--3--10
 Melissa Ossa--7865867867--09/09/2009--Femenino--Especialista--Comunicación--4--13

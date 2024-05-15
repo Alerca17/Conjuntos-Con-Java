@@ -1,4 +1,2 @@
-Alejandro Correa--1023623600--17/05/2004--Masculino--Maestria--Ingenieria--4--13
 Samuel Zapata--1013456214--03/11/2004--Masculino--Pregrado--Ingenieria--5--15
 Salome Rueda--474575647567--02/06/2004--Femenino--Doctorado--Ciencias Basicas--4--15
-Daniela Alejandra Rozo Pimentel--000000000--16/05/2003--Femenino--Doctorado--Ingenieria--4--12

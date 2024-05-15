@@ -20,67 +20,67 @@ public class Profesor {
     }
 
     public String getAsignaturas() {
-        return asignaturas;
+        return asignaturas; // 1
     }
 
     public void setAsignaturas(String asignaturas) {
-        this.asignaturas = asignaturas;
+        this.asignaturas = asignaturas; // 1
     }
 
     public String getCedula() {
-        return cedula;
+        return cedula; // 1
     }
 
     public void setCedula(String cedula) {
-        this.cedula = cedula;
+        this.cedula = cedula; // 1
     }
 
     public String getFacultad() {
-        return facultad;
+        return facultad; // 1
     }
 
     public void setFacultad(String facultad) {
-        this.facultad = facultad;
+        this.facultad = facultad; // 1
     }
 
     public String getFecha() {
-        return fecha;
+        return fecha; // 1
     }
 
     public void setFecha(String fecha) {
-        this.fecha = fecha;
+        this.fecha = fecha; // 1
     }
 
     public String getHoras() {
-        return horas;
+        return horas; // 1
     }
 
     public void setHoras(String horas) {
-        this.horas = horas;
+        this.horas = horas; // 1
     }
 
     public String getNombre() {
-        return nombre;
+        return nombre; // 1
     }
 
     public void setNombre(String nombre) {
-        this.nombre = nombre;
+        this.nombre = nombre; // 1
     }
 
     public String getTitulo() {
-        return titulo;
+        return titulo; // 1
     }
 
     public void setTitulo(String titulo) {
-        this.titulo = titulo;
+        this.titulo = titulo; // 1
     }
 
     public String getSexo() {
-        return sexo;
+        return sexo; // 1
     }
 
     public void setSexo(String sexo) {
-        this.sexo = sexo;
+        this.sexo = sexo; // 1
     }
 
     @Override
